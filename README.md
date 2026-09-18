@@ -15,3 +15,6 @@
 
 # footer 추가
 - footer 기능 구현 시작했음
+
+# SIDEBAR 구현
+- 편의를 위해 sidebar를 추가로 구현해 보겠습니다.
