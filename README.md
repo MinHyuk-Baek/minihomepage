@@ -18,3 +18,6 @@
 
 # SERACH 개발
 - SEARCH 개발을 시작해봅시다.
+
+# SIDEBAR 구현
+- 편의를 위해 sidebar를 추가로 구현해 보겠습니다.
