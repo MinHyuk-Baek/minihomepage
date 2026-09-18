@@ -15,3 +15,6 @@
 
 # footer 추가
 - footer 기능 구현 시작했음
+
+# SERACH 개발
+- SEARCH 개발을 시작해봅시다.
